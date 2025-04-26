@@ -26,7 +26,7 @@ RepoFinder is a web application designed to help users discover and explore GitH
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/repo-finder.git
+   git clone https://github.com/MohDDH/repo-finder.git
    cd repo-finder
    ```
 
